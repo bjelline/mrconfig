@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/DavidWang88/ini-for-vscode/blob/master/LICENSE) 
 
-A VSCode extension for `.mconfig` files used by [myrepos](https://myrepos.branchable.com/)
+This will be a VSCode extension for `.mconfig` files used by [myrepos](https://myrepos.branchable.com/)
 
 Provide outline view and section folding.
 
@@ -21,7 +21,6 @@ None.
 
 ## Release Notes
 
-### [0.0.5]
-- first release: changed comments
+not released yet
 
 
